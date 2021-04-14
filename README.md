@@ -14,20 +14,12 @@ Here are some ideas to get you started:
 -->
 Hello!
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | LinkedIn" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+<a href="https://www.linkedin.com/in/gaurish-prakhar-saini-0a3ab6173/">
+  LinkedIn
 </a>
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
-<a href="https://medium.com/@shinichiokada">
-  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>
-
-
+<br />
+<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gaurish-saini&theme=vuehighcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurish-saini&layout=compact)
