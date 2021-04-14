@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 Hello!
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 <a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Linkedin" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+  <img align="left" alt="Shinichi Okada | LinkedIn" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
 <a href="https://twitter.com/shinokada">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
@@ -23,6 +26,7 @@ Hello!
 <a href="https://medium.com/@shinichiokada">
   <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
 </a>
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gaurish-saini&theme=vuehighcontrast&show_icons=true&count_private=true)
