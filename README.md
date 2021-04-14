@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 -->
 Hello!
 
+<a href="https://twitter.com/shinokada">
+  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+</a>
+<a href="https://medium.com/@shinichiokada">
+  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
+</a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gaurish-saini&theme=vuehighcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurish-saini&layout=compact)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gaurish-saini&theme=vuehighcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurish-saini&layout=compact)
