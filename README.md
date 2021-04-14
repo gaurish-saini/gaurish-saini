@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 Hello!
 
-
-<a href="https://www.linkedin.com/in/gaurish-prakhar-saini-0a3ab6173/">
-  LinkedIn
-</a>
+<a href="https://twitter.com/SainiGaurish" alt="Twitter"><img src="https://raw.githubusercontent.com/gaurish-saini/gaurish-saini/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/gaurish-prakhar-saini-0a3ab6173/" alt="Linkedin"><img src="https://raw.githubusercontent.com/gaurish-saini/gaurish-saini/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:gaurish.saini@coloredcow.in" alt="Contact me"><img src="https://raw.githubusercontent.com/gaurish-saini/gaurish-saini/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
 <br />
 <br />
 
