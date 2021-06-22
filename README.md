@@ -10,8 +10,7 @@ Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/maste
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gaurish-saini&theme=vuehighcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurish-saini&layout=compact)
 
-[![Gaurish's github activity graph](https://activity-graph.herokuapp.com/graph?username=gaurish-saini&theme=gruvbox)](https://github.com/gaurish-saini/github-readme-activity-graph)
-
+![Gaurish's github activity graph](https://activity-graph.herokuapp.com/graph?username=gaurish-saini&theme=gruvbox)
 ![](https://visitor-badge.glitch.me/badge?page_id=gaurish-saini.gaurish-saini)
 <!--
 **gaurish-saini/gaurish-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
