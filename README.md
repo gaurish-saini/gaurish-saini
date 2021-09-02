@@ -1,5 +1,4 @@
-Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> Gaurish here, a Full Stack Developer Intern at <a href="https://coloredcow.com">ColoredCow</a>.
-
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> Gaurish here, a Full Stack Developer.
 <a href="https://www.linkedin.com/in/gaurish-prakhar-saini-0a3ab6173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"></a>
 <a href="mailto:gaurish.saini@coloredcow.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"></a>
 <a href="https://twitter.com/SainiGaurish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a>
