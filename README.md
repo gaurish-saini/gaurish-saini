@@ -15,7 +15,7 @@
 
 I’m Gaurish. I build web applications with **React, TypeScript, and Node.js**. My work has ranged from analytics dashboards in React and D3 to a Next.js marketplace for vehicle discovery, bookings, and payments. I like owning a feature across the UI and API, especially when a request can fail halfway through or a user’s permissions can change between visits.
 
-At Anatta, I build customer account and B2B workflows and the tools we use to ship them. I worked with UI architects to move a **74-route storefront to Remix 2 and Vite**. We released it in stages, checked account and checkout behavior, and rehearsed rollback. I also expanded our pull-request previews so QA could test the intended revision against the right storefront and data.
+At Anatta, I build customer account and B2B workflows and the tools we use to ship them. I worked with UI architects to move a **74-route storefront to Remix 2 and Vite**. We released it in stages and rehearsed rollback. I then implemented the React Router 7 and Hydrogen migration on the existing Express host. Account and checkout flows passed in preview, and the release is in review. I also expanded our pull-request previews so QA could test the intended revision against the right storefront and data.
 
 ## Engineering notes from production
 
@@ -23,8 +23,8 @@ At Anatta, I build customer account and B2B workflows and the tools we use to sh
 - **[Pull-request previews on Fly.io](https://gaurishsaini.hashnode.dev/pr-previews-flyio-domains-data-profiles)** — how a reviewer’s preview URL resolves to the code, domain, and data profile they intend to test.
 - **[Checkout-safe cart flows](https://gaurishsaini.hashnode.dev/checkout-safe-cart-flows-headless-shopify)** — which edits can be replayed after a cart expires and why checkout waits until the correct buyer identity is in place.
 
-## Independent work
+## Public projects
 
 In my **[conversational AI CLI](https://github.com/gaurish-saini/agents-v2)**, I implemented approval controls for file tools, cancellation, and timeouts. The [multi-turn evaluations](https://github.com/gaurish-saini/agents-v2/tree/master/evals) run the same agent loop as the CLI with deterministic test tools. They check tool selection and call order, including cases where a tool should stay unused.
 
-I’m also developing an environmental monitoring product with **React, TypeScript, Go, and PostgreSQL**.
+In **[Buywind](https://github.com/gaurish-saini/ecommerce-dashboard-react)**, I built a React dashboard with a searchable, sortable order table and keyboard navigation. The repository includes the source and sample data.
