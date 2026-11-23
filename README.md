@@ -21,9 +21,9 @@ On the product side, I built location-scoped order details, wholesale reorder, a
 
 ## Engineering notes from production
 
-- **[Customer identity migration](https://gaurishsaini.hashnode.dev/shopify-customer-accounts-migration-headless-storefront)** — how we kept accounts and carts in sync when OAuth refreshed a session during a redirect.
-- **[Pull-request previews on Fly.io](https://gaurishsaini.hashnode.dev/pr-previews-flyio-domains-data-profiles)** — how a reviewer’s preview URL resolves to the code, domain, and data profile they intend to test.
-- **[Checkout-safe cart flows](https://gaurishsaini.hashnode.dev/checkout-safe-cart-flows-headless-shopify)** — which edits can be replayed after a cart expires and why checkout waits until the correct buyer identity is in place.
+- **[Customer identity migration](https://gaurishsaini.hashnode.dev/shopify-customer-accounts-migration-headless-storefront)** explains how we kept account and cart sessions in sync when OAuth refreshed a session during a redirect.
+- In **[Pull-request previews on Fly.io](https://gaurishsaini.hashnode.dev/pr-previews-flyio-domains-data-profiles)**, I trace how a preview URL resolves to the code revision, domain, and data profile that QA needs to test.
+- When a cart expires, which edits are safe to replay? I cover that decision and the buyer identity checks that protect checkout in **[Checkout-safe cart flows](https://gaurishsaini.hashnode.dev/checkout-safe-cart-flows-headless-shopify)**.
 
 ## Public projects
 
